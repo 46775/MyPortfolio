@@ -1,3 +1,3 @@
-$("connect").click(function(){
-    alert("hello");
+$("#connect").click(()=>{
+    alert("clicked");
 })
