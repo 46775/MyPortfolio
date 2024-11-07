@@ -1,3 +1,0 @@
-$("#connect").click(()=>{
-    alert("clicked");
-})
